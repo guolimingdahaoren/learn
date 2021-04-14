@@ -2,7 +2,6 @@ package 两数相加;
 
 /**
  * @Description: 循环条件; root节点; 进位
- * @Author: guoliming@imdada.cn
  * @Date: 2021-04-12 07:30
 **/
 public class Solution {
