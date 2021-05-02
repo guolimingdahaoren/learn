@@ -3,7 +3,12 @@ import org.apache.zookeeper.Watcher;
 import org.apache.zookeeper.ZooKeeper;
 
 import java.util.concurrent.CountDownLatch;
-
+/**
+ * @Description:创建会话
+ * @Date: 2021-05-02 16:55
+ * @param:
+ * @return:
+ **/
 public class Zookeeper_Constructor_Usage_Simple implements Watcher {
     private static CountDownLatch latch = new CountDownLatch(1);
 
